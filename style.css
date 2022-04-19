@@ -1,0 +1,15 @@
+.marca{
+    color: yellow;
+}
+
+.as{
+    color: purple;
+}
+
+.marca:hover{
+    color: green;
+}
+
+.as:hover{
+    color: red;
+}
